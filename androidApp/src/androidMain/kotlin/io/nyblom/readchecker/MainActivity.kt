@@ -1,4 +1,4 @@
-package com.myapplication
+package io.nyblom.readchecker
 
 import MainView
 import android.os.Bundle
